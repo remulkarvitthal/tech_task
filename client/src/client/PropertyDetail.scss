@@ -1,0 +1,18 @@
+html,
+body {
+    margin: 0;
+}
+
+.a {
+    display: flex;
+}
+
+.images {
+    flex: 1;
+    height: '100vh' !important;
+}
+
+.info {
+    flex: 4;
+    height: '100vh';
+}

@@ -1,0 +1,23 @@
+div#search {
+    margin: 2em;
+}
+
+.row {
+    display: flex;
+}
+
+.left {
+    flex: 1;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.right {
+    flex: 4;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.poperty-card{
+    margin: auto;
+}

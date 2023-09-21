@@ -1,0 +1,32 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "name": "Red Roses Apartment",
+        "year": 2023,
+        "price": 3000,
+        "image" : "https://source.unsplash.com/random/?house,building,real+estate",
+        "city" : "Bangalore",
+        "interested" : true
+      },
+      {
+        "id": 2,
+        "name": "Genesis Apartment",
+        "year": 2023,
+        "price": 4000,
+        "image" : "https://source.unsplash.com/random/?house,building,real+estate",
+        "city" : "Pune",
+        "interested": false
+      },
+      {
+        "id": 3,
+        "name": "Green Woods",
+        "year": 2023,
+        "price": 5000,
+        "image" : "https://source.unsplash.com/random/?house,building,real+estate",
+        "city" : "Bangalore",
+        "interested": false
+      }
+    ]
+  }
+  
