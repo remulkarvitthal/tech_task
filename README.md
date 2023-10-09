@@ -2,6 +2,15 @@
 The app is developed using React, Node.js, express, typescript and mongodb
 Mongodb shoud be up and running on default port without any credentials as prerequisite.
 
+Create a .env file and paste the following code 
+```
+# Port number
+PORT=3000
+
+# URL of the Mongo DB
+MONGODB_URL=mongodb://127.0.0.1:27017/node-ts-boilerplate
+```
+
 Run the below command to run the server
 ```
 cd server
